@@ -1,0 +1,22 @@
+{
+  "name": "track",
+  "version": "1.0.0",
+  "description": "repo with test code to track my red monster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boswellgathu/track.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boswellgathu/track/issues"
+  },
+  "homepage": "https://github.com/boswellgathu/track#readme",
+  "dependencies": {
+    "location.io": "^0.0.4"
+  }
+}
